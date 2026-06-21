@@ -1,2 +1,14 @@
 # baseigame-pages
-HTML page archive and documentation
+
+页面内容归档仓库
+
+页面发布任务会把结果保存到此仓库，方便统一管理。
+
+## 内容目录
+
+- `*.html`：静态页面文件
+- `README.md`：仓库说明与维护备注
+
+## 发布说明
+
+每次发布会写入对应页面文件，具体路径由发布任务决定。
